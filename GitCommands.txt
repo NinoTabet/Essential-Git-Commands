@@ -10,3 +10,9 @@ git pull - pulls latest changes of current branch
 git branch - displays all availabl branches. '*' indicates your current branch
 
 git checkout - changes connection to desired branch
+
+git branch -d <branch name> - delete a branch
+
+git status - displayed the status of your branch/staged changes/commits
+
+git restore --staged <filename> - removes specific file from staging
