@@ -9,4 +9,5 @@ git pull - pulls latest changes of current branch
 
 git branch - displays all availabl branches. '*' indicates your current branch
 
-git checkout
+git checkout - changes connection to desired branch
+
