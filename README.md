@@ -1,1 +1,1 @@
-Hello this is a readme file
+A list of essential git commands.
